@@ -1,0 +1,40 @@
+We have far-fetched dreams of making TinkerHub the community one thinks of,
+when needing any form of assistance, but during our initial stages, our main focus
+lies in implementing the following:
+1. Setup Internship Opportunities
+●
+Being a community driven platform, anyone from anywhere will be
+exposed to all the internship opportunities that are out there.
+●
+Organisations can use it as a platform to see the students in all their
+merit, and choose to reward those who they see worthy.
+2. Hackathons
+●
+These enable students to let their ideas flow and come up with
+outstanding innovations, which later can be improvised into something
+that gives back to the society.
+3. Sessions
+●
+We do plan to host sessions, about relevant advancements in software
+and hardware technologies, to render the attendees capable of
+employing the same into their projects/activities.
+4. Projects
+●
+We aim to start out projects, that give back to the society. And this
+would be the right platform, involving multifaceted people, with an
+extravaganza of ideas, mentored by the best in the nation.
+5. Patents
+●
+Something all educational institutions need to focus on is research
+output and innovation that arises from the institution. We plan to
+network with a larger community to make this happen.
+6. Regular Meetings
+●
+As any active community should, we stress on having regular meetings
+amongst the members.3
+7. Mentoring and Support
+●
+Since we are an open community, the amount of mentorship that we
+can provide is something to be reckoned with. From junior and and
+final year students, to leading industry professionals, the network is
+strong and waiting for fresh talent.
