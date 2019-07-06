@@ -114,14 +114,14 @@ h6 {
   transition: all 0.5s;
 }
 
-/*------------------https://uwaterloo.ca/student-success/sites/ca.student-success/files/styles/wide-body-750px-wide/public/uploads/images/c015997-110618-ssofallphotography-7044_0.jpg?itok=IeIq5kSN--------------------------------------------
+/*--------------------------------------------------------------
 # Intro Section
 --------------------------------------------------------------*/
 
 #intro {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(45deg, rgba(241, 0, 97, 0.6), rgba(29, 200, 205, 0.6)), url("https://d11wkw82a69pyn.cloudfront.net/siteassets/images/mod2_code_challenge-2019_txt_dx.jpg") center top no-repeat;
+  background: linear-gradient(45deg, rgba(241, 0, 97, 0.6), rgba(29, 200, 205, 0.6)), url("../img/code_challenge.jpg") center top no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -501,7 +501,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-img img {
-  margin-left: -15px;
+  padding-left: 30px;
   max-width: 100%;
 }
 
