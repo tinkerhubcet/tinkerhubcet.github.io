@@ -491,18 +491,22 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #about {
-  padding: 60px 0;
+  padding: 60px;
   overflow: hidden;
+  border-bottom: #000;
+  border-bottom-width: 2px;
 }
 
 #about .about-img {
-  height: 510px;
-  overflow: hidden;
+  /* height: 510px;
+  overflow: hidden; */
 }
 
 #about .about-img img {
-  padding-left: 30px;
+  max-height: 100%;
   max-width: 100%;
+  float: left;
+  padding: 0 30px 30px 0;
 }
 
 #about .content .h2 {
@@ -520,7 +524,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .content p {
-  line-height: 26px;
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 10px;
+  /* line-height: 26px; */
 }
 
 #about .content p:last-child {
