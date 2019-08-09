@@ -108,7 +108,7 @@ h6 {
 }
 
 #header.header-fixed {
-  background: linear-gradient(45deg, rgba(90, 31, 54, 0.8), #1dc8cd);
+  background: linear-gradient(45deg, rgba(252, 220, 232, 0.8), #1dc8cd);
   padding: 20px 0;
   height: 72px;
   transition: all 0.5s;
@@ -121,7 +121,7 @@ h6 {
 #intro {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(45deg, rgba(241, 0, 97, 0.6), rgba(29, 200, 205, 0.6)), url("../img/code_challenge.jpg") center top no-repeat;
+  background: linear-gradient(45deg, rgba(133, 42, 78, 0.85), rgba(206, 243, 247, 0.85)), url("../img/code_challenge.jpg") center top no-repeat;
   background-size: cover;
   position: relative;
 }
@@ -230,8 +230,6 @@ h6 {
 # Navigation Menu
 -----------*/
 
-/* Nav Menu Essentials */
-
 .nav-menu,
 .nav-menu * {
   margin: 0;
@@ -270,7 +268,6 @@ h6 {
   min-width: 180px;
 }
 
-/* Nav Menu Arrows */
 
 .sf-arrows .sf-with-ul {
   padding-right: 30px;
@@ -289,14 +286,10 @@ h6 {
   content: "\f105";
 }
 
-/* Nav Meu Container */
-
 #nav-menu-container {
   float: right;
   margin: 0;
 }
-
-/* Nav Meu Styling */
 
 .nav-menu a {
   padding: 0 8px 10px 8px;
@@ -341,7 +334,6 @@ h6 {
   margin: 0;
 }
 
-/* Mobile Nav Toggle */
 
 #mobile-nav-toggle {
   position: fixed;
@@ -362,7 +354,6 @@ h6 {
   color: #fff;
 }
 
-/* Mobile Nav Styling */
 
 #mobile-nav {
   position: fixed;
@@ -435,7 +426,6 @@ h6 {
   display: none;
 }
 
-/* Mobile Nav body classes */
 
 body.mobile-nav-active {
   overflow: hidden;
@@ -453,7 +443,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 # Sections
 -----------*/
 
-/* Sections Header--*/
 
 .section-header .section-title {
   font-size: 32px;
@@ -491,11 +480,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 60px;
   overflow: hidden;
 }
-
-/* #about .about-img {
-  height: 510px;
-  overflow: hidden;
-} */
 
 #about .about-img img {
   max-height: 100%;
@@ -718,27 +702,27 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 
-/* Join Us
+/* Announcements
 --------------------------------*/
 
-#call-to-action {
+#announcements {
   overflow: hidden;
   background: linear-gradient(rgba(253, 224, 96, 0.952), rgba(243, 169, 108, 0.801)), url() fixed center center;
   background-size: cover;
   padding: 80px 0;
 }
 
-#call-to-action .cta-title {
+#announcements .cta-title {
   color: #fff;
   font-size: 28px;
   font-weight: 700;
 }
 
-#call-to-action .cta-text {
+#announcements .cta-text {
   color: #fff;
 }
 
-#call-to-action .cta-btn {
+#announcements .cta-btn {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -752,7 +736,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
-#call-to-action .cta-btn:hover {
+#announcements .cta-btn:hover {
   background: #1dc8cd;
   border: 2px solid #1dc8cd;
 }
@@ -760,7 +744,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Learning Stories
 --------------------------------*/
 #portfolio {
-  /* background: rgb(250, 239, 239); */
   padding: 80px 0;
 }
 
@@ -815,105 +798,45 @@ body.mobile-nav-active #mobile-nav-toggle {
   transform: translate3d(0, 0, 0);
 }
 
-/* Our Team Section
+/* Join Us
 --------------------------------*/
 
-/* #team {
-  padding: 60px 0;
+#call-to-action {
   overflow: hidden;
+  background: linear-gradient(rgba(253, 224, 96, 0.952), rgba(243, 169, 108, 0.801)), url() fixed center center;
+  background-size: cover;
+  padding: 80px 0;
 }
 
-#team .member {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-#team .member .pic {
-  margin-bottom: 15px;
-  overflow: hidden;
-  height: 260px;
-}
-
-#team .member .pic img {
-  max-width: 100%;
-}
-
-#team .member h4 {
+#call-to-action .cta-title {
+  color: #fff;
+  font-size: 28px;
   font-weight: 700;
-  margin-bottom: 2px;
-  font-size: 18px;
 }
 
-#team .member span {
-  font-style: italic;
-  display: block;
-  font-size: 13px;
+#call-to-action .cta-text {
+  color: #fff;
 }
 
-#team .member .social {
-  margin-top: 15px;
+#call-to-action .cta-btn {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 30px;
+  border-radius: 25px;
+  transition: background 0.5s;
+  margin: 10px;
+  border: 2px solid #fff;
+  color: #fff;
 }
 
-#team .member .social a {
-  color: #b3b3b3;
+#call-to-action .cta-btn:hover {
+  background: #1dc8cd;
+  border: 2px solid #1dc8cd;
 }
 
-#team .member .social a:hover {
-  color: #1dc8cd;
-}
-
-#team .member .social i {
-  font-size: 18px;
-  margin: 0 2px;
-} */
-
-/* Gallery Section
---------------------------------*/
-
-#gallery {
-  /* background: #fff; */
-  padding: 60px 0 0 0;
-  overflow: hidden;
-}
-
-#gallery .container-fluid {
-  padding: 0px;
-}
-
-#gallery .gallery-overlay {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  opacity: 1;
-  transition: all ease-in-out 0.4s;
-}
-
-#gallery .gallery-item {
-  overflow: hidden;
-  position: relative;
-  padding: 0;
-  vertical-align: middle;
-  text-align: center;
-}
-
-#gallery .gallery-item img {
-  transition: all ease-in-out 0.4s;
-  width: 100%;
-}
-
-#gallery .gallery-item:hover img {
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1);
-}
-
-#gallery .gallery-item:hover .gallery-overlay {
-  opacity: 1;
-  background: rgba(0, 0, 0, 0.7);
-}
 
 /* Contact Section
 --------------------------------*/
