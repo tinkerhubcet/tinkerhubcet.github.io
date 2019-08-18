@@ -652,9 +652,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 #features .features-img {
   text-align: center;
   padding-top: 20px;
+  padding-bottom: 50px;
 }
 
 #features .features-img img {
+  height: 500px;
   max-width: 100%;
 }
 
@@ -692,6 +694,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #features .description {
+  text-align: justify;
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 10px;
