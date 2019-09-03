@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !tinkerhubcet.github.io/link$ [NC]
+RewriteRule ^(.*)$ http://tinkerhub.cet.ac.in/link/$1 [L,R=301]
