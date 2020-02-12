@@ -70,7 +70,7 @@ h6 {
 -----*/
 
 #header {
-  background: linear-gradient(45deg, rgba(88, 19, 77, 0.85), rgba(58, 197, 207, 0.85));
+  background-color: white;
   padding: 20px;
   height: 72px;
   transition: all 0.5s;
@@ -513,7 +513,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .content i {
   font-size: 20px;
   padding-right: 4px;
-  color: #1dc8cd;
+  color: #0c0c0c;
 }
 
 #about .content ul {
