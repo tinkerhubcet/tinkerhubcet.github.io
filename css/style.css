@@ -10,7 +10,7 @@ body {
 }
 
 a {
-  color: #1dc8cd;
+  color: #000000;
   transition: 0.5s;
 }
 
@@ -70,7 +70,7 @@ h6 {
 -----*/
 
 #header {
-  background-color: white;
+  background: linear-gradient(45deg, rgba(128, 40, 75, 0.8), rgba(135, 226, 236, 0.8));
   padding: 20px;
   height: 72px;
   transition: all 0.5s;
@@ -293,7 +293,7 @@ h6 {
   padding: 0 8px 10px 8px;
   text-decoration: none;
   display: inline-block;
-  color: #fff;
+  color: linear-gradient(45deg, rgba(248, 72, 143, 0.8), rgba(44, 144, 155, 0.8));
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 14px;
@@ -308,7 +308,7 @@ h6 {
   margin: 4px 0 0 0;
   padding: 10px;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
-  background: #fff;
+  background:linear-gradient(45deg, rgba(133, 42, 78, 0.8), rgba(206, 243, 247, 0.8));
 }
 
 .nav-menu ul li {
@@ -325,7 +325,7 @@ h6 {
 }
 
 .nav-menu ul li:hover > a {
-  color: #1dc8cd;
+  color: #06edf5;
 }
 
 .nav-menu ul ul {
@@ -708,19 +708,19 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #announcements {
   overflow: hidden;
-  background: linear-gradient(rgba(253, 224, 96, 0.952), rgba(243, 169, 108, 0.801)), url() fixed center center;
+  background: linear-gradient(rgba(221, 243, 245, 0.952), rgba(216, 248, 240, 0.801)), url() fixed center center;
   background-size: cover;
   padding: 80px 0;
 }
 
 #announcements .cta-title {
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 28px;
   font-weight: 700;
 }
 
 #announcements .cta-text {
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 #announcements .cta-btn {
@@ -733,13 +733,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 25px;
   transition: background 0.5s;
   margin: 10px;
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px solid rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
 }
 
 #announcements .cta-btn:hover {
-  background: #1dc8cd;
-  border: 2px solid #1dc8cd;
+  background: #e7bcbc;
+  border: 2px solid #d3afaf;
 }
 
 /* Learning Stories
@@ -804,19 +804,19 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #call-to-action {
   overflow: hidden;
-  background: linear-gradient(rgba(253, 224, 96, 0.952), rgba(243, 169, 108, 0.801)), url() fixed center center;
+  background: linear-gradient(rgba(221, 243, 245, 0.952), rgba(216, 248, 240, 0.801)), url() fixed center center;
   background-size: cover;
   padding: 80px 0;
 }
 
 #call-to-action .cta-title {
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 28px;
   font-weight: 700;
 }
 
 #call-to-action .cta-text {
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 #call-to-action .cta-btn {
@@ -829,13 +829,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 25px;
   transition: background 0.5s;
   margin: 10px;
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px solid rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
 }
 
 #call-to-action .cta-btn:hover {
-  background: #1dc8cd;
-  border: 2px solid #1dc8cd;
+  background: #e7bcbc;
+  border: 2px solid #d3afaf;
 }
 
 
