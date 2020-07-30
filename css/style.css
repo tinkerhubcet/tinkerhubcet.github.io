@@ -1033,6 +1033,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 
+@media (min-width: 769px) and (max-width: 1024px)
+{
+  #eventCarousel{
+    min-height: 600px;
+  }
+}
 @media (max-width: 768px) {
   #header #logo h1 {
     font-size: 28px;
