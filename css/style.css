@@ -809,6 +809,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   transform: translate3d(0, 0, 0);
 }
 
+.learning-exp-row{
+  padding: 20px;
+}
 /* Join Us
 --------------------------------*/
 
