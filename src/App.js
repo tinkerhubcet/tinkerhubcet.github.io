@@ -4,7 +4,6 @@ import Test from "./components/pages/test-page/Test";
 import './components/pages/home-page/custom.css';
 import Index from "./components/pages/home-page/Index";
 import EventDetails from "./components/pages/test-page/EventDetails";
-import React from 'react';
 
 
 
