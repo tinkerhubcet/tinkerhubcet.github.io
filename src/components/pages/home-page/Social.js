@@ -5,7 +5,7 @@ import {FaTwitter,FaInstagram,FaLinkedin} from 'react-icons/fa'
 function Social(){
     return (
         <div className="social-main">
-            <div><a href="https://www.linkedin.com/groups/13914799" target="_blank" rel="noreferrer">
+            <div><a href="https://www.linkedin.com/company/74303785/" target="_blank" rel="noreferrer">
                 <FaLinkedin size={35}/></a>
             </div>
             <div><a href="https://instagram.com/tinkerhubcet?igshid=1gkhqvml39wj3" target="_blank" rel="noreferrer">
