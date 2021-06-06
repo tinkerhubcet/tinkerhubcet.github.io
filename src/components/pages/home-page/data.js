@@ -141,7 +141,7 @@ export const initData = [
     },
     {
       id:6,
-      title:"Women-in-Teach Lead",
+      title:"Women-in-Tech Lead",
       name:"Atheena R",
       img:{athena}
     },
