@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.86356d65.chunk.css",
-    "main.js": "/static/js/main.100aed9e.chunk.js",
-    "main.js.map": "/static/js/main.100aed9e.chunk.js.map",
+    "main.js": "/static/js/main.42d67d45.chunk.js",
+    "main.js.map": "/static/js/main.42d67d45.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.09df94a4.js",
     "runtime-main.js.map": "/static/js/runtime-main.09df94a4.js.map",
     "static/css/2.1fe20c78.chunk.css": "/static/css/2.1fe20c78.chunk.css",
@@ -14,6 +14,8 @@
     "static/css/2.1fe20c78.chunk.css.map": "/static/css/2.1fe20c78.chunk.css.map",
     "static/css/main.86356d65.chunk.css.map": "/static/css/main.86356d65.chunk.css.map",
     "static/js/2.f41f9f0f.chunk.js.LICENSE.txt": "/static/js/2.f41f9f0f.chunk.js.LICENSE.txt",
+    "static/media/Blockchain.2158a60c.md": "/static/media/Blockchain.2158a60c.md",
+    "static/media/DataScience.2dc8ed98.md": "/static/media/DataScience.2dc8ed98.md",
     "static/media/DevOps.ebe1efd0.md": "/static/media/DevOps.ebe1efd0.md",
     "static/media/Hackathon.b2bfe6dd.md": "/static/media/Hackathon.b2bfe6dd.md",
     "static/media/Townhall.e04ca236.md": "/static/media/Townhall.e04ca236.md",
@@ -42,6 +44,6 @@
     "static/css/2.1fe20c78.chunk.css",
     "static/js/2.f41f9f0f.chunk.js",
     "static/css/main.86356d65.chunk.css",
-    "static/js/main.100aed9e.chunk.js"
+    "static/js/main.42d67d45.chunk.js"
   ]
 }

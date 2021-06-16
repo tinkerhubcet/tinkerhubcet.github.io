@@ -5,6 +5,8 @@ import { useEffect, useState } from 'react';
 import DevOps from './DevOps.md';
 import Townhall from './Townhall.md';
 import Hackathon from './Hackathon.md';
+import Blockchain from './Blockchain.md';
+import DataScience from './DataScience.md';
 
 
 import {
@@ -33,6 +35,16 @@ function Test(){
 
         else if (id === "DevOps"){
             fetch(DevOps)
+            .then((res) => res.text())
+            .then((text) => setMarkDown(text));
+        }
+        else if (id === "Blockchain"){
+            fetch(Blockchain)
+            .then((res) => res.text())
+            .then((text) => setMarkDown(text));
+        }
+        else if (id === "DataScience"){
+            fetch(DataScience)
             .then((res) => res.text())
             .then((text) => setMarkDown(text));
         }

@@ -38,6 +38,12 @@ function EventDetails(){
 					<li style={{backgroundColor:"#7bb5f1"}}>
 					<Link to="/eventDetails/Hackathon" className="eve-link">Hackathon</Link>
 					</li>
+          <li style={{backgroundColor:"#DF5042"}}>
+					<Link to="/eventDetails/Blockchain" className="eve-link">Blockchain</Link>
+					</li>
+          <li style={{backgroundColor:"#F7B829"}}>
+					<Link to="/eventDetails/DataScience" className="eve-link">Data Science</Link>
+					</li>
                 </ul>
       
               	<Switch>
