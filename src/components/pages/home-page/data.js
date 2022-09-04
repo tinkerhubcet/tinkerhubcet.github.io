@@ -21,7 +21,7 @@ import abdulHafeez from '../../new_images/7D9886FC-979A-4014-A893-3CC6E20DACC7 -
 import joseph from '../../new_images/IMG_20220527_222632_440 - Joseph.jpg'
 import pranav from '../../new_images/IMG_20220110_233024_590 - Pranav Jayachandran.jpg'
 import neha from '../../new_images/IMG_20220122_124451 - Neha Shenoy P.jpg'
-import don from '../../new_images/_MG_1267 - Don Jose Mathew.jpg'
+import don from '../../new_images/don_jose_mathew.jpg'
 import boby from '../../new_images/IMG_20220717_142133 - Boby Biju.jpg'
 import joe from '../../new_images/IMG_20220704_233600 - Joe Paul.jpg'
 import anjitha from '../../new_images/IMG_20220717_132331 - ANJITHA S.jpg'

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f6af2692.chunk.css",
-    "main.js": "/static/js/main.aab73441.chunk.js",
-    "main.js.map": "/static/js/main.aab73441.chunk.js.map",
+    "main.js": "/static/js/main.a79a9980.chunk.js",
+    "main.js.map": "/static/js/main.a79a9980.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.09df94a4.js",
     "runtime-main.js.map": "/static/js/runtime-main.09df94a4.js.map",
     "static/css/2.1fe20c78.chunk.css": "/static/css/2.1fe20c78.chunk.css",
@@ -35,13 +35,13 @@
     "static/media/Meera - Meera Sreekumar.aa753936.jpg": "/static/media/Meera - Meera Sreekumar.aa753936.jpg",
     "static/media/NANDA_sqaure_above - Nanda Kishor M Pai.f4725e03.jpg": "/static/media/NANDA_sqaure_above - Nanda Kishor M Pai.f4725e03.jpg",
     "static/media/Townhall.e04ca236.md": "/static/media/Townhall.e04ca236.md",
-    "static/media/_MG_1267 - Don Jose Mathew.16dfc9a5.jpg": "/static/media/_MG_1267 - Don Jose Mathew.16dfc9a5.jpg",
     "static/media/aboutus.44e51c53.png": "/static/media/aboutus.44e51c53.png",
     "static/media/ajay.0835af6d.jpg": "/static/media/ajay.0835af6d.jpg",
     "static/media/amruth.052e6e18.jpg": "/static/media/amruth.052e6e18.jpg",
     "static/media/ankitha.8901b2d5.jpg": "/static/media/ankitha.8901b2d5.jpg",
     "static/media/athena.37e3d38d.jpg": "/static/media/athena.37e3d38d.jpg",
     "static/media/contact.a5483018.png": "/static/media/contact.a5483018.png",
+    "static/media/don_jose_mathew.7968c3f7.jpg": "/static/media/don_jose_mathew.7968c3f7.jpg",
     "static/media/hackthon_1.987d2b74.jpg": "/static/media/hackthon_1.987d2b74.jpg",
     "static/media/hackthon_2.bc5ed0b0.jpg": "/static/media/hackthon_2.bc5ed0b0.jpg",
     "static/media/harisha.8ae410ce.jpg": "/static/media/harisha.8ae410ce.jpg",
@@ -63,6 +63,6 @@
     "static/css/2.1fe20c78.chunk.css",
     "static/js/2.f41f9f0f.chunk.js",
     "static/css/main.f6af2692.chunk.css",
-    "static/js/main.aab73441.chunk.js"
+    "static/js/main.a79a9980.chunk.js"
   ]
 }
