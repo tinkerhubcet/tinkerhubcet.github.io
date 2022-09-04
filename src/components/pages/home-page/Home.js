@@ -3,6 +3,8 @@ import Navbar from "../../NavBar";
 import './custom.css'
 import logo from '../../images/tinkerhub-logo.png'
 import team from '../../images/team.png';
+import { BrowserRouter, Route, Switch } from "react-router-dom";
+import About from '../about-page/About';
 
 function Home(){
     return (
@@ -23,7 +25,7 @@ function Home(){
                 <div className="home-title" style={{zIndex:1}}>
                     <h1>Tinker<span style={{color:"#000"}}>Hub CET</span></h1>
                     <div className="sub-name">
-                        Official TinkerHub chapter of<br/>
+                         Official TinkerHub chapter of<br/>
                          College of Engineering, Trivandrum
                     </div>
                     

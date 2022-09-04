@@ -10,6 +10,25 @@ import nmpi from '../../images/nmpi.jpg'
 import ajay from '../../images/ajay.jpg'
 import ankitha from '../../images/ankitha.jpg'
 import p1 from '../../images/p1.jpg';
+import HishamP from '../../new_images/HishamP.jpg'
+import nmpii from '../../new_images/NANDA_sqaure_above - Nanda Kishor M Pai.jpg'
+import sudev from '../../new_images/IMG_20220520_175624 - Sudev Suresh.jpg'
+import surabhi from '../../new_images/IMG_20220529_202716_547 - Surabhi S.jpg'
+import anitha from '../../new_images/IMG_5721 - Anitha K.png'
+import gokul from '../../new_images/image_new-min - Gokul G Menon.JPG'
+import meera from '../../new_images/Meera - Meera Sreekumar.jpg'
+import abdulHafeez from '../../new_images/7D9886FC-979A-4014-A893-3CC6E20DACC7 - ABDUL HAFEEZ GALIB.jpeg'
+import joseph from '../../new_images/IMG_20220527_222632_440 - Joseph.jpg'
+import pranav from '../../new_images/IMG_20220110_233024_590 - Pranav Jayachandran.jpg'
+import neha from '../../new_images/IMG_20220122_124451 - Neha Shenoy P.jpg'
+import don from '../../new_images/_MG_1267 - Don Jose Mathew.jpg'
+import boby from '../../new_images/IMG_20220717_142133 - Boby Biju.jpg'
+import joe from '../../new_images/IMG_20220704_233600 - Joe Paul.jpg'
+import anjitha from '../../new_images/IMG_20220717_132331 - ANJITHA S.jpg'
+import gopika from '../../new_images/Gopika_P_Pavithran - Gopika P Pavithran.jpg'
+import govind from '../../new_images/IMG_0779-01 - govind Vr.jpeg'
+import ashish from '../../new_images/200295 - Ashish Abraham.jpg'
+import shreyas from '../../new_images/shreyas.jpg'
 
 export const initData = [
     // {
@@ -111,50 +130,123 @@ export const initData = [
   export const teamData = [
     {
       id:1,
-      title:"Chairperson",
-      name:"K Harishankar",
-      img:{harisha}
+      title:"Campus Lead",
+      name:"Nanda Kishor M Pai",
+      img:{nmpii}
     },
     {
       id:2,
-      title:"Vice Chairperson",
-      name:"Vishnu Prakash",
-      img:{stim3}
+      title:"Co Chairperson",
+      name:"Sudev Suresh Sreedevi",
+      img:{sudev}
     },
     {
       id:3,
-      title:"Secretary",
-      name:"Nanda Kishor M",
-      img:{nmpi}
-    },
-    {
-      id:4,
-      title:"Design Lead",
-      name:"Sudev SS",
-      img:{stim4}
-    },
-    {
-      id:5,
-      title:"Web Master",
-      name:"Amruth DD",
-      img:{amruth}
-    },
-    {
-      id:6,
-      title:"Women-in-Tech Lead",
-      name:"Atheena R",
-      img:{athena}
-    },
-    {
-      id:7,
-      title:"Mentor",
-      name:"Ajay Krishna KV",
+      title:"Co Chairperson",
+      name:"Ajay Krishna K V",
       img:{ajay}
     },
     {
-      id:8,
-      title:"Mentor",
-      name:"Ankitha Jazy",
-      img:{ankitha}
+      id:4,
+      title:"Secretary",
+      name:"Abdul Hafeez Galib",
+      img:{abdulHafeez}
     },
+    {
+      id:5,
+      title:"Tech Lead",
+      name:"Gokul G Menon",
+      img:{gokul}
+    },
+    {
+      id:6,
+      title:"Web Admin",
+      name:"Mohammed Hisham P",
+      img:{HishamP}
+    },
+    {
+      id:7,
+      title:"Web Admin",
+      name:"Don Jose Mathew",
+      img:{don}
+    },
+    {
+      id:8,
+      title:"Design Head",
+      name:"Joseph",
+      img:{joseph}
+    },
+    {
+      id:9,
+      title:"WIT Lead",
+      name:"Surabhi S",
+      img:{surabhi}
+    },
+    {
+      id:10,
+      title:"WIT Vice Lead",
+      name:"Anitha K",
+      img:{anitha}
+    },
+    
+    {
+      id:11,
+      title:"Content Head",
+      name:"pranav",
+      img:{pranav}
+    },
+    {
+      id:12,
+      title:"Publicity Head",
+      name:"Neha Shenoy P",
+      img:{neha}
+    },
+    
+  ]
+
+export const teamData_panel = [
+    {
+      id:1,
+      title:"Publicity",
+      name:"Shreyas Santhosh",
+      img:{shreyas}
+    },
+    {
+      id:2,
+      title:"Publicity",
+      name:"Boby Biju",
+      img:{boby}
+    },
+    {
+      id:3,
+      title:"Publicity",
+      name:"Joe Paul Thekkanath",
+      img:{joe}
+    },
+    {
+      id:4,
+      title:"Design",
+      name:"Anjitha S",
+      img:{anjitha}
+    },
+    {
+      id:5,
+      title:"Design",
+      name:"Gopika P Pavithran",
+      img:{gopika}
+    },
+    {
+      id:6,
+      title:"Tech",
+      name:"Govind V R",
+      img:{govind}
+    },
+    {
+      id:7,
+      title:"Tech",
+      name:"Ashish Abraham",
+      img:{ashish}
+    },
+    
+    
   ]

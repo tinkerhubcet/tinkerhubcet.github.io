@@ -1,6 +1,7 @@
 import React from 'react';
 import about from '../../images/aboutus.png'
 import {teamData} from '../home-page/data'
+import {teamData_panel} from '../home-page/data'
 import {Link} from 'react-router-dom'
 
 function About(){
@@ -37,6 +38,7 @@ function About(){
                 </div>
             </div>
             <div  className="team-title">Team</div>
+            <div  className="execom">Execom</div>
             <div className="team-container">
                 
                 <div className="row">
@@ -46,7 +48,7 @@ function About(){
                             <div className="team-box">
                                 <img
                                     src={data.img[Object.keys(data.img)[0]]}
-                                    alt="hel8" 
+                                    alt="hel8"
                                     className="team-img">
                                 </img>
                                 <div className="team-mem">
@@ -62,7 +64,32 @@ function About(){
                     
                 </div>
             </div>
-            
+            <div  className="execom">Panel Members</div>
+            <div className="team-container">
+                
+                <div className="row">
+                {teamData_panel.map((data,key) =>{
+                    return(
+                        <div className="t-box col-xl-3 col-md-4">
+                            <div className="team-box">
+                                <img
+                                    src={data.img[Object.keys(data.img)[0]]}
+                                    alt="hel8"
+                                    className="team-img">
+                                </img>
+                                <div className="team-mem">
+                                    <div className="team-name">{data.name}</div>
+                                    <div>{data.title}</div>
+                                </div>
+                            </div>   
+                        </div>
+                    )
+                    
+                })}
+                    
+                    
+                </div>
+            </div>
         </div>
     );
 }

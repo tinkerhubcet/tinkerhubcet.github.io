@@ -159,6 +159,14 @@ background: #ffffff;
     color: #fff;
     font-weight: 700;
 }
+.execom{
+    margin-top: 2%;
+    text-align:left;
+    font-size: 40px;
+    color: #77ca91;
+    font-weight: 700;
+}
+
 
 .team-box{
     display: flex;
